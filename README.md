@@ -510,23 +510,11 @@ If you use this work in your research, please cite:
 ```bibtex
 @misc{slum_detection_unet_2025,
   title={Advanced Slum Detection Using Deep Learning: A UNet-based Approach},
-  author={Akila Wasalathilaka},
+  author={Nichula Wasalathilaka},
   year={2025},
-  url={https://github.com/Akila-Wasalathilaka/Slum-detection-model-using-UNET}
+  url={https://github.com/nichula01/Slum-Detection-Using-STnet-model.git}
 }
 ```
 
 ---
 
-<div align="center">
-
-**🚀 Ready for Real-World Deployment! 🌍**
-
-*State-of-the-art slum detection with 99.67% AUC-ROC achieved!*
-
-[![GitHub stars](https://img.shields.io/github/stars/Akila-Wasalathilaka/Slum-detection-model-using-UNET?style=social)](https://github.com/Akila-Wasalathilaka/Slum-detection-model-using-UNET)
-[![Follow](https://img.shields.io/github/followers/Akila-Wasalathilaka?style=social)](https://github.com/Akila-Wasalathilaka)
-
-*For questions, issues, or collaboration opportunities, please open an issue or contact the maintainers.*
-
-</div>
